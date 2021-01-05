@@ -1,0 +1,7 @@
+D:\versity doc\C# notes\DevelopersBank\bin\Debug\DevelopersBank.exe.config
+D:\versity doc\C# notes\DevelopersBank\bin\Debug\DevelopersBank.exe
+D:\versity doc\C# notes\DevelopersBank\bin\Debug\DevelopersBank.pdb
+D:\versity doc\C# notes\DevelopersBank\obj\Debug\DevelopersBank.csprojAssemblyReference.cache
+D:\versity doc\C# notes\DevelopersBank\obj\Debug\DevelopersBank.csproj.CoreCompileInputs.cache
+D:\versity doc\C# notes\DevelopersBank\obj\Debug\DevelopersBank.exe
+D:\versity doc\C# notes\DevelopersBank\obj\Debug\DevelopersBank.pdb
